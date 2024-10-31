@@ -1,0 +1,2 @@
+.available-theme p.description{max-height: 48px; overflow:hidden;} /* 3 lines */
+.available-theme p:last-child{max-height: 16px; overflow:hidden;}  /* 1 lines */
